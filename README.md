@@ -43,4 +43,3 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daviddust4@hotmail.com)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissondaviddev@gmail.com)
 ![snake gif](https://github.com/Daviddust95/Daviddust95/blob/output/github-contribution-grid-snake.svg)
-
