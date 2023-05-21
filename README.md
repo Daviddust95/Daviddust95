@@ -36,7 +36,7 @@
 
 
 
-        ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f3076777a754677434741464f2f67697068792e676966](https://github.com/Daviddust95/Daviddust95/assets/124353154/af04eaaa-61a9-4eec-8632-64b9f8eea851)
+(https://github.com/Daviddust95/Daviddust95/assets/124353154/af04eaaa-61a9-4eec-8632-64b9f8eea851)
                 
 
 ### Entre em contato:
