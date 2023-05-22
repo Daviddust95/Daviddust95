@@ -27,17 +27,10 @@
 <br/>
 
 
+Let's go ! <p>
+  
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f3076777a754677434741464f2f67697068792e676966](https://github.com/Daviddust95/Daviddust95/assets/124353154/691a0579-b2c8-41e3-ad1f-ae22324e8a75)
 
-
-
-
-![Daviddust95's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviddust95&show_icons=true&theme=midnight-purple)
-
-
-
-
-(https://github.com/Daviddust95/Daviddust95/assets/124353154/af04eaaa-61a9-4eec-8632-64b9f8eea851)
-                
 
 ### Entre em contato:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-melo95)
