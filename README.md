@@ -1,9 +1,16 @@
 
-### Olá ! me chamo Alisson David de Melo ! 👋<br/>
+### Olá ! me chamo Alisson David ! 👋<br/>
 ### Atualmente, dedico-me a projetos que são fundamentais para a minha carreira como dev Back-End. Dentre eles, uma graduação em Análise e Desenvolvimento de Sistemas. Além disso, estou me aprofundando em cursos sobre a linguagem Python. Ultimamente, tenho trabalhado no desenvolvimento de projetos na área de segurança da informação. Essas atividades estão me proporcionando a oportunidade de adquirir novas habilidades e conhecimentos que serão essenciais para o meu sucesso profissional. Estou animado para trabalhar em seu projeto e aplicar tudo o que estou aprendendo.
 
 <br/>
 
+
+
+Let's go ! <p>
+  
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f3076777a754677434741464f2f67697068792e676966](https://github.com/Daviddust95/Daviddust95/assets/124353154/691a0579-b2c8-41e3-ad1f-ae22324e8a75)
+  
+ <br/>
 
 ## Tecnologias e ferramentas que uso no meu dia a dia:
 
@@ -22,14 +29,6 @@
                         <img align="center" alt="edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
                         <img align="center" alt="Tor" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
                        </div>
-
-                       
-<br/>
-
-
-Let's go ! <p>
-  
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f3076777a754677434741464f2f67697068792e676966](https://github.com/Daviddust95/Daviddust95/assets/124353154/691a0579-b2c8-41e3-ad1f-ae22324e8a75)
 
 
 ### Entre em contato:
