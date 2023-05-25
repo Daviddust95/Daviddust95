@@ -1,6 +1,6 @@
 
 ### Olá ! me chamo Alisson David ! 👋<br/>
-### Atualmente, dedico-me a projetos que são fundamentais para a minha carreira como dev Back-End. Dentre eles, uma graduação em Análise e Desenvolvimento de Sistemas. Além disso, estou me aprofundando em cursos sobre a linguagem Python. Ultimamente, tenho trabalhado no desenvolvimento de projetos na área de segurança da informação. Essas atividades estão me proporcionando a oportunidade de adquirir novas habilidades e conhecimentos que serão essenciais para o meu sucesso profissional. Estou animado para trabalhar em seu projeto e aplicar tudo o que estou aprendendo.
+### Atualmente, dedico-me a projetos que são fundamentais para a minha carreira como dev Back-End. Dentre eles, uma graduação em Análise e Desenvolvimento de Sistemas. Além disso, estou me aprofundando em cursos sobre a linguagem Java e Python. Ultimamente, tenho trabalhado no desenvolvimento de projetos na área de segurança da informação. Essas atividades estão me proporcionando a oportunidade de adquirir novas habilidades e conhecimentos que serão essenciais para o meu sucesso profissional. Estou animado para trabalhar em seu projeto e aplicar tudo o que estou aprendendo.
 
 <br/>
 
