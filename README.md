@@ -7,10 +7,12 @@ Sou graduando em Análise e Desenvolvimento de Sistemas. Tenho interesse na áre
 
 
 
-Let's go ! <p>
+Let's go !
+
+<p align="center">
   
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f3076777a754677434741464f2f67697068792e676966](https://github.com/Daviddust95/Daviddust95/assets/124353154/691a0579-b2c8-41e3-ad1f-ae22324e8a75)
-  
+  </p>
  <br/>
 
 ## Tecnologias e ferramentas que uso no meu dia a dia:
