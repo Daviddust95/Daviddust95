@@ -1,7 +1,7 @@
 
 ### Olá ! me chamo Alisson David ! 👋<br/>
 
-Atualmente, dedico-me a projetos que são fundamentais para a minha carreira como dev Back-End. Dentre eles, uma graduação em Análise e Desenvolvimento de Sistemas. Além disso, estou me aprofundando em cursos sobre a linguagem Java e Python. Ultimamente, tenho trabalhado no desenvolvimento de projetos na área de segurança da informação. Essas atividades estão me proporcionando a oportunidade de adquirir novas habilidades e conhecimentos que serão essenciais para o meu sucesso profissional. Estou animado para trabalhar em seu projeto e aplicar tudo o que estou aprendendo.
+Sou graduando em Análise e Desenvolvimento de Sistemas. Tenho interesse na área de back-end, segurança da informação e em suporte a usuários. Estou animado para trabalhar em seu projeto e aplicar tudo o que estou aprendendo.
 
 <br/>
 
@@ -16,11 +16,12 @@ Let's go ! <p>
 ## Tecnologias e ferramentas que uso no meu dia a dia:
 
 <div style="display: inline-block"><br/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black/>
+      <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
         <img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
             <img align="center" alt="Kali Linux"src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
                 <img align="center" alt="Linuxn" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
