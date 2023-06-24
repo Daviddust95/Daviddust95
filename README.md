@@ -1,7 +1,7 @@
 
 ### Olá ! me chamo Alisson David ! 👋<br/>
 
-Sou graduando em Análise e Desenvolvimento de Sistemas. Tenho interesse na área de back-end, segurança da informação e em suporte a usuários. Estou animado para trabalhar em seu projeto e aplicar tudo o que estou aprendendo.
+Sou graduando em Análise e Desenvolvimento de Sistemas. Tenho interesse na área de Backend, segurança da informação e em suporte a usuários. Estou animado para trabalhar em seu projeto e aplicar tudo o que estou aprendendo.
 
 <br/>
 
